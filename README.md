@@ -20,5 +20,5 @@ To run this application, ensure all three Python files (`main.py`, `customer.py`
 2. Navigate to the directory containing the files.
 3. Run the following command: python main.py
 
-## Video Demonstration
-<video controls src="Week_8.mp4" title="Title"></video>
+## Demo
+![Food Order Demo](./demo.gif)
