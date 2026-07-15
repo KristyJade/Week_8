@@ -21,4 +21,4 @@ To run this application, ensure all three Python files (`main.py`, `customer.py`
 3. Run the following command: python main.py
 
 ## Demo
-![Food Order Demo](./demo.gif)
+![Food Order Demo](./Demo.gif)
